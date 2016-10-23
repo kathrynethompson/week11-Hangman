@@ -1,0 +1,19 @@
+{
+  "name": "week11-hangman",
+  "version": "1.0.0",
+  "description": "Week 11 Hangman Game ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathrynethompson/week11-Hangman.git"
+  },
+  "author": "Kathryne Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathrynethompson/week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/kathrynethompson/week11-Hangman#readme"
+}
